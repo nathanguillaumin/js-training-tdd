@@ -10,6 +10,10 @@
  */
 
 // Your code:
+function abs(number) {
+    let ternary = (number < 0) ?  -number : number;
+    return ternary;
+}
 
 //* Begin of tests
 const assert = require('assert');

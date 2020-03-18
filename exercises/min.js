@@ -10,6 +10,11 @@
  */
 
 // Your code:
+    function min(number1, number2) {
+        let ternary = (number1 < number2) ? number1 : number2;
+        return ternary;
+}
+
 
 //* Begin of tests
 const assert = require('assert');
