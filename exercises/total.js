@@ -24,3 +24,5 @@ assert.deepStrictEqual(total([ 1, 1, 1 ]), 3);
 assert.deepStrictEqual(total([ 10, 10, 10 ]), 30);
 assert.deepStrictEqual(total([ 24, -10, 10, 0, 0, 100 ]), 124);
 // End of tests */
+
+console.log(3)
